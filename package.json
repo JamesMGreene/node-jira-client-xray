@@ -1,6 +1,6 @@
 {
   "name": "jira-client-xray",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An extended wrapper of the existing \"jira-client\" module, which adds support for the \"Xray for Jira\" Test Management plugin's REST API",
   "author": {
     "name": "James M. Greene",

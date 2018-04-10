@@ -56,12 +56,12 @@ The HTTP response object (referred to as the "testExecIssueId" in all subsequent
 
 The JSON schema for the `issueData` parameter that is an optional part of some of these API calls is as follows:
 
-[![Jira Cloud](https://img.shields.io/badge/Jira%2FCloud--blue.svg)](https://developer.atlassian.com/cloud/jira/platform/rest/#api-api-2-issue-post) [![Jira Server](https://img.shields.io/badge/Jira%2FServer-v7.9.0-blue.svg)](https://docs.atlassian.com/software/jira/docs/api/REST/7.9.0/#api/2/issue-createIssue)
+[![Jira Cloud](https://img.shields.io/badge/Jira%20Cloud--blue.svg)](https://developer.atlassian.com/cloud/jira/platform/rest/#api-api-2-issue-post) [![Jira Server](https://img.shields.io/badge/Jira%20Server-v7.9.0-blue.svg)](https://docs.atlassian.com/software/jira/docs/api/REST/7.9.0/#api/2/issue-createIssue)
 
 
 #### Xray JSON
 
-[![API Documentation](https://img.shields.io/badge/API%2FDocumentation--blue.svg)](https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-XrayJSONresults) [![Request Schema](https://img.shields.io/badge/Request%2FSchema--blue.svg)](https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results#ImportExecutionResults-XrayJSONformat)
+[![API Documentation](https://img.shields.io/badge/API%20Documentation--blue.svg)](https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-XrayJSONresults) [![Request Schema](https://img.shields.io/badge/Request%20Schema--blue.svg)](https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results#ImportExecutionResults-XrayJSONformat)
 
 ```js
 jira
@@ -72,11 +72,11 @@ jira
 
 #### Cucumber JSON
 
-[![Request Schema](https://img.shields.io/badge/Request%2FSchema--blue.svg)](https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results#ImportExecutionResults-CucumberJSONoutputformat)
+[![Request Schema](https://img.shields.io/badge/Request%20Schema--blue.svg)](https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results#ImportExecutionResults-CucumberJSONoutputformat)
 
 ##### Results Only
 
-[![API Documentation](https://img.shields.io/badge/API%2FDocumentation--blue.svg)](https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-CucumberJSONresults)
+[![API Documentation](https://img.shields.io/badge/API%20Documentation--blue.svg)](https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-CucumberJSONresults)
 
 ```js
 jira
@@ -86,7 +86,7 @@ jira
 
 ##### With JIRA Issue Customization
 
-[![API Documentation](https://img.shields.io/badge/API%2FDocumentation--blue.svg)](https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-CucumberJSONresultsMultipart)
+[![API Documentation](https://img.shields.io/badge/API%20Documentation--blue.svg)](https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-CucumberJSONresultsMultipart)
 
 ```js
 jira
@@ -97,11 +97,11 @@ jira
 
 #### Behave JSON
 
-[![Request Schema](https://img.shields.io/badge/Request%2FSchema--blue.svg)](https://github.com/behave/behave/blob/master/behave/formatter/json.py)
+[![Request Schema](https://img.shields.io/badge/Request%20Schema--blue.svg)](https://github.com/behave/behave/blob/master/behave/formatter/json.py)
 
 ##### Results Only
 
-[![API Documentation](https://img.shields.io/badge/API%2FDocumentation--blue.svg)](https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-BehaveJSONresults)
+[![API Documentation](https://img.shields.io/badge/API%20Documentation--blue.svg)](https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-BehaveJSONresults)
 
 ```js
 jira
@@ -111,7 +111,7 @@ jira
 
 ##### With JIRA Issue Customization
 
-[![API Documentation](https://img.shields.io/badge/API%2FDocumentation--blue.svg)](https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-BehaveJSONresultsMultipart)
+[![API Documentation](https://img.shields.io/badge/API%20Documentation--blue.svg)](https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-BehaveJSONresultsMultipart)
 
 ```js
 jira
@@ -122,11 +122,11 @@ jira
 
 #### JUnit XML
 
-[![Request Schema](https://img.shields.io/badge/Request%2FSchema--blue.svg)](https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results#ImportExecutionResults-JUnitXMLoutputformat)
+[![Request Schema](https://img.shields.io/badge/Request%20Schema--blue.svg)](https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results#ImportExecutionResults-JUnitXMLoutputformat)
 
 ##### Results Only
 
-[![API Documentation](https://img.shields.io/badge/API%2FDocumentation--blue.svg)](https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-JUnitXMLresults)
+[![API Documentation](https://img.shields.io/badge/API%20Documentation--blue.svg)](https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-JUnitXMLresults)
 
 ```js
 jira
@@ -136,7 +136,7 @@ jira
 
 ##### With JIRA Issue Customization
 
-[![API Documentation](https://img.shields.io/badge/API%2FDocumentation--blue.svg)](https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-JUnitXMLresultsMultipart)
+[![API Documentation](https://img.shields.io/badge/API%20Documentation--blue.svg)](https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-JUnitXMLresultsMultipart)
 
 ```js
 jira
@@ -147,11 +147,11 @@ jira
 
 #### TestNG XML
 
-[![Request Schema](https://img.shields.io/badge/Request%2FSchema--blue.svg)](https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results#ImportExecutionResults-TestNGXMLoutputformat)
+[![Request Schema](https://img.shields.io/badge/Request%20Schema--blue.svg)](https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results#ImportExecutionResults-TestNGXMLoutputformat)
 
 ##### Results Only
 
-[![API Documentation](https://img.shields.io/badge/API%2FDocumentation--blue.svg)](https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-TestNGXMLresults)
+[![API Documentation](https://img.shields.io/badge/API%20Documentation--blue.svg)](https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-TestNGXMLresults)
 
 ```js
 jira
@@ -161,7 +161,7 @@ jira
 
 ##### With JIRA Issue Customization
 
-[![API Documentation](https://img.shields.io/badge/API%2FDocumentation--blue.svg)](https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-TestNGXMLresultsMultipart)
+[![API Documentation](https://img.shields.io/badge/API%20Documentation--blue.svg)](https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-TestNGXMLresultsMultipart)
 
 ```js
 jira
@@ -172,11 +172,11 @@ jira
 
 #### NUnit XML
 
-[![Request Schema v3.0](https://img.shields.io/badge/Request%2FSchema-v3.0-blue.svg)](https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results#ImportExecutionResults-NUnitv3.0XMLoutputformat) [![Request Schema v2.6](https://img.shields.io/badge/Request%2FSchema-v2.6-blue.svg)](https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results#ImportExecutionResults-NUnitv2.6XMLoutputformat)
+[![Request Schema v3.0](https://img.shields.io/badge/Request%20Schema-v3.0-blue.svg)](https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results#ImportExecutionResults-NUnitv3.0XMLoutputformat) [![Request Schema v2.6](https://img.shields.io/badge/Request%20Schema-v2.6-blue.svg)](https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results#ImportExecutionResults-NUnitv2.6XMLoutputformat)
 
 ##### Results Only
 
-[![API Documentation](https://img.shields.io/badge/API%2FDocumentation--blue.svg)](https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-NUnitXMLresults)
+[![API Documentation](https://img.shields.io/badge/API%20Documentation--blue.svg)](https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-NUnitXMLresults)
 
 ```js
 jira
@@ -186,7 +186,7 @@ jira
 
 ##### With JIRA Issue Customization
 
-[![API Documentation](https://img.shields.io/badge/API%2FDocumentation--blue.svg)](https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-NUnitXMLresultsMultipart)
+[![API Documentation](https://img.shields.io/badge/API%20Documentation--blue.svg)](https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-NUnitXMLresultsMultipart)
 
 ```js
 jira
@@ -197,11 +197,11 @@ jira
 
 #### Robot Framework XML
 
-[![Request Schema](https://img.shields.io/badge/Request%2FSchema--blue.svg)](https://github.com/robotframework/robotframework/tree/master/doc/schema)
+[![Request Schema](https://img.shields.io/badge/Request%20Schema--blue.svg)](https://github.com/robotframework/robotframework/tree/master/doc/schema)
 
 ##### Results Only
 
-[![API Documentation](https://img.shields.io/badge/API%2FDocumentation--blue.svg)](https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-RobotFrameworkXMLresults)
+[![API Documentation](https://img.shields.io/badge/API%20Documentation--blue.svg)](https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-RobotFrameworkXMLresults)
 
 ```js
 jira
@@ -211,7 +211,7 @@ jira
 
 ##### With JIRA Issue Customization
 
-[![API Documentation](https://img.shields.io/badge/API%2FDocumentation--blue.svg)](https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-RobotFrameworkXMLresultsMultipart)
+[![API Documentation](https://img.shields.io/badge/API%20Documentation--blue.svg)](https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-RobotFrameworkXMLresultsMultipart)
 
 ```js
 jira
