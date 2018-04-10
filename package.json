@@ -1,0 +1,50 @@
+{
+  "name": "jira-client-xray",
+  "version": "1.0.0",
+  "description": "An extended wrapper of the existing \"jira-client\" module, which adds support for the \"Xray for Jira\" Test Management plugin's REST API",
+  "author": {
+    "name": "James M. Greene",
+    "email": "james.m.greene@gmail.com",
+    "url": "https://jamesmgreene.github.io/"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/JamesMGreene/node-jira-client-xray.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JamesMGreene/node-jira-client-xray/issues"
+  },
+  "homepage": "https://github.com/JamesMGreene/node-jira-client-xray#readme",
+  "keywords": [
+    "jira-client",
+    "Xray for Jira",
+    "Jira",
+    "Xray",
+    "Test Management",
+    "Test Execution",
+    "Import",
+    "REST",
+    "API",
+    "Client"
+  ],
+  "main": "src/index.js",
+  "engine": {
+    "node": ">=4.2.2"
+  },
+  "scripts": {
+    "esdoc": "rm -rf docs/ && esdoc",
+    "lint": "jshint src/",
+    "test": "npm run lint && npm run esdoc"
+  },
+  "dependencies": {
+    "jira-client": "^6.4.0",
+    "request": "^2.85.0"
+  },
+  "devDependencies": {
+    "esdoc": "^1.0.4",
+    "esdoc-node": "^1.0.3",
+    "esdoc-standard-plugin": "^1.0.0",
+    "jshint": "^2.9.5"
+  }
+}

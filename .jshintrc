@@ -1,0 +1,19 @@
+{
+  "curly": true,
+  "eqeqeq": true,
+  "esnext": false,
+  "immed": true,
+  "newcap": true,
+  "noarg": true,
+  "sub": true,
+  "undef": true,
+  "unused": true,
+  "eqnull": true,
+  "browser": false,
+  "node": true,
+  "strict": true,
+  "globalstrict": true,
+  "white": true,
+  "indent": 2,
+  "maxlen": 120
+}

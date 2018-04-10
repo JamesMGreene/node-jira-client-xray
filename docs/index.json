@@ -1,0 +1,2250 @@
+[
+  {
+    "__docId__": 1,
+    "kind": "external",
+    "name": "Infinity",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Infinity",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Infinity",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 2,
+    "kind": "external",
+    "name": "NaN",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~NaN",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 3,
+    "kind": "external",
+    "name": "undefined",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~undefined",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 4,
+    "kind": "external",
+    "name": "null",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/null",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~null",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 5,
+    "kind": "external",
+    "name": "Object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 6,
+    "kind": "external",
+    "name": "object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 7,
+    "kind": "external",
+    "name": "Function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 8,
+    "kind": "external",
+    "name": "function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 9,
+    "kind": "external",
+    "name": "Boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 10,
+    "kind": "external",
+    "name": "boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 11,
+    "kind": "external",
+    "name": "Symbol",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Symbol",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 12,
+    "kind": "external",
+    "name": "Error",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Error",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 13,
+    "kind": "external",
+    "name": "EvalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/EvalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~EvalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 14,
+    "kind": "external",
+    "name": "InternalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/InternalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~InternalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 15,
+    "kind": "external",
+    "name": "RangeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RangeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RangeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 16,
+    "kind": "external",
+    "name": "ReferenceError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ReferenceError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ReferenceError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 17,
+    "kind": "external",
+    "name": "SyntaxError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SyntaxError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~SyntaxError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 18,
+    "kind": "external",
+    "name": "TypeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~TypeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 19,
+    "kind": "external",
+    "name": "URIError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/URIError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~URIError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 20,
+    "kind": "external",
+    "name": "Number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 21,
+    "kind": "external",
+    "name": "number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 22,
+    "kind": "external",
+    "name": "Date",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Date",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 23,
+    "kind": "external",
+    "name": "String",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~String",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 24,
+    "kind": "external",
+    "name": "string",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~string",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 25,
+    "kind": "external",
+    "name": "RegExp",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RegExp",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 26,
+    "kind": "external",
+    "name": "Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 27,
+    "kind": "external",
+    "name": "Int8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 28,
+    "kind": "external",
+    "name": "Uint8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 29,
+    "kind": "external",
+    "name": "Uint8ClampedArray",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8ClampedArray",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8ClampedArray",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 30,
+    "kind": "external",
+    "name": "Int16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 31,
+    "kind": "external",
+    "name": "Uint16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 32,
+    "kind": "external",
+    "name": "Int32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 33,
+    "kind": "external",
+    "name": "Uint32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 34,
+    "kind": "external",
+    "name": "Float32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 35,
+    "kind": "external",
+    "name": "Float64Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float64Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float64Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 36,
+    "kind": "external",
+    "name": "Map",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Map",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 37,
+    "kind": "external",
+    "name": "Set",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Set",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 38,
+    "kind": "external",
+    "name": "WeakMap",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakMap",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 39,
+    "kind": "external",
+    "name": "WeakSet",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakSet",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 40,
+    "kind": "external",
+    "name": "ArrayBuffer",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ArrayBuffer",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 41,
+    "kind": "external",
+    "name": "DataView",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~DataView",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 42,
+    "kind": "external",
+    "name": "JSON",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~JSON",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 43,
+    "kind": "external",
+    "name": "Promise",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Promise",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 44,
+    "kind": "external",
+    "name": "Generator",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Generator",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 45,
+    "kind": "external",
+    "name": "GeneratorFunction",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/GeneratorFunction",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~GeneratorFunction",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 46,
+    "kind": "external",
+    "name": "Reflect",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Reflect",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 47,
+    "kind": "external",
+    "name": "Proxy",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Proxy",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 48,
+    "kind": "file",
+    "name": "src/index.js",
+    "content": "'use strict';\n\n// Node.js core modules\nvar url = require('url');\nvar util = require('util');\n\n// Userland modules\nvar JiraApi = require('jira-client');\n\n\n\n/**\n * @constructor\n * @param {JiraApiWithXrayOptions} options\n */\nfunction JiraApiWithXray(options) {\n  if (!(this instanceof JiraApiWithXray)) {\n    return new JiraApiWithXray(options);\n  }\n\n  var opts = options || {};\n\n  // Invoke the super constructor\n  JiraApi.call(this, opts);\n\n  this.xrayVersion = opts.xrayVersion || '1.0';\n}\n\nutil.inherits(JiraApiWithXray, JiraApi);\n\n\n/**\n * @typedef JiraApiWithXrayOptions\n * @type {object}\n * @property {string} [protocol=http] - What protocol to use to connect to\n * Jira? Ex: http|https\n * @property {string} host - What host is this tool connecting to for the Jira\n * instance? Ex: jira.somehost.com\n * @property {string} [port] - What port is this tool connecting to Jira with? Only needed for\n * none standard ports. Ex: 8080, 3000, etc\n * @property {string} [username] - Specify a username for this tool to authenticate all\n * requests with.\n * @property {string} [password] - Specify a password for this tool to authenticate all\n * requests with.\n * @property {string} [apiVersion=2] - What version of the Jira REST API is the instance the\n * tool is connecting to?\n * @property {string} [base] - What other url parts exist, if any, before the rest/api/\n * section?\n * @property {string} [intermediatePath] - If specified, overwrites the default rest/api/version\n * section of the uri\n * @property {boolean} [strictSSL=true] - Does this tool require each request to be\n * authenticated?  Defaults to true.\n * @property {function} [request] - What method does this tool use to make its requests?\n * Defaults to request from request-promise\n * @property {number} [timeout] - Integer containing the number of milliseconds to wait for a\n * server to send response headers (and start the response body) before aborting the request. Note\n * that if the underlying TCP connection cannot be established, the OS-wide TCP connection timeout\n * will overrule the timeout option ([the default in Linux can be anywhere from 20-120 *\n * seconds](http://www.sekuda.com/overriding_the_default_linux_kernel_20_second_tcp_socket_connect_timeout)).\n * @property {string} [webhookVersion=1.0] - What webhook version does this api wrapper need to\n * hit?\n * @property {string} [greenhopperVersion=1.0] - What webhook version does this api wrapper need\n * to hit?\n * @property {OAuth} [oauth] - Specify an OAuth object for this tool to authenticate all requests\n * using OAuth.\n * @property {string} [bearer] - Specify a OAuth bearer token to authenticate all requests with.\n * @property {string} [xrayVersion=1.0] - What version of the \"Xray for Jira\" REST API is the\n * instance the tool is connecting to?\n */\n\n/**\n * @typedef OAuth\n * @type {object}\n * @property {string} consumer_key - The consumer entered in Jira Preferences.\n * @property {string} consumer_secret - The private RSA file.\n * @property {string} access_token - The generated access token.\n * @property {string} access_token_secret - The generated access toke secret.\n * @property {string} signature_method [signature_method=RSA-SHA1] - OAuth signurate methode\n * Possible values RSA-SHA1, HMAC-SHA1, PLAINTEXT. Jira Cloud supports only RSA-SHA1.\n */\n\n\n/**\n * Creates a URI object for a given pathName within the \"Xray for Jira\" REST API\n * @param {makeXrayUriOptions} [options] - An options object specifying uri information\n */\nJiraApiWithXray.prototype.makeXrayUri = function(options) {\n  var opts = options || {};\n  var intermediateToUse = this.intermediatePath || opts.intermediatePath;\n  var tempPath = intermediateToUse || '/rest/raven/' + this.xrayVersion;\n  var uri = url.format({\n    protocol: this.protocol,\n    hostname: this.host,\n    port: this.port,\n    pathname: this.base + tempPath + opts.pathname,\n  });\n  return decodeURIComponent(uri);\n};\n\n/**\n * @typedef makeXrayUriOptions\n * @type {object}\n * @property {string} pathname - The url after the /rest/raven/version\n * @property {string} intermediatePath - If specified will overwrite the /rest/raven/version section\n */\n\n\n/*jshint ignore:start */\n/**\n * Import Test Execution results into \"Xray for Jira\" using the Xray JSON format.\n * @see https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-XrayJSONresults\n * @param {TestExecXrayJson} testExecResults - The results of the Test Execution in the Xray JSON format\n */\n/*jshint ignore:end */\nJiraApiWithXray.prototype.importExecResultsFromXray = function(testExecResults) {\n  return this.doRequest(\n    this.makeRequestHeader(\n      this.makeXrayUri({\n        method: 'POST',\n        pathname: '/import/execution',\n        body: testExecResults\n      })\n    )\n  );\n};\n\n/*jshint ignore:start */\n/**\n * @typedef TestExecXrayJson\n * @type {object}\n * @see https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results#ImportExecutionResults-XrayJSONformat\n * @property {string} [testExecutionKey] - The Jira issue key for an existing Test Execution that should be updated. If omitted, a new Test Execution is created automatically.\n * @property {TestExecXrayJsonInfo} [info] - Test Execution metadata\n * @property {TestExecXrayJsonTestRun[]} tests - The results of the Test Run\n */\n/*jshint ignore:end */\n\n/**\n * @typedef TestExecXrayJsonInfo\n * @type {object}\n * @property {string} [project] - The Jira project ID\n * @property {string} summary - Summary of the Test Execution\n * @property {string} [description] - Description of the Test Execution\n * @property {string} [user] - The Jira user logging the Test Execution results\n * @property {string} [version] - Version under test\n * @property {string} [revision] - The revision/build/branch under test\n * @property {string} [startDate] - The ISO date timestamp at which the Test Execution started\n * @property {string} [finishDate] - The ISO date timestamp at which the Test Execution finished\n * @property {string} [testPlanKey] - The Jira issue key for the associated Test Plan\n * @property {string[]} [testEnvironments] - The environmental configuration under test\n */\n\n/**\n * @typedef TestExecXrayJsonTestRun\n * @type {object}\n * @property {string} testKey - The Jira issue key for the associated Test\n * @property {string} status - The \"PASS\" or \"FAIL\" status for the Test Run as a whole\n * @property {string} [comment] - A message about this Test Run\n * @property {string} [start] - The ISO date timestamp at which this Test Run started\n * @property {string} [finish] - The ISO date timestamp at which this Test Run finished\n * @property {string} [executedBy] - The Jira user who executed this Test Run\n * @property {TestExecXrayJsonEvidence[]} [evidences] - Attachments (e.g. screenshots) proving the Test Run's failure\n * @property {TestExecXrayJsonResult[]} [results] - Detailed results of individual test cases within this Test Run\n * @property {string[]} [examples] - The \"PASS\" or \"FAIL\" status for each of the Test Run's examples\n * @property {TestExecXrayJsonTestStep[]} [steps] - Details about each Test step and its outcome\n * @property {string[]} [defects] - The Jira issue keys for any associated bugs recorded during this Test Run\n */\n\n/**\n * @typedef TestExecXrayJsonEvidence\n * @type {object}\n * @property {string} data - The base64-encoded string of data representing this attachment\n * @property {string} filename - The basename of the file associated with this attachment\n * @property {string} [contentType] - The MIME type associated with this attachment, e.g. \"image/jpeg\"\n */\n\n/**\n * @typedef TestExecXrayJsonResult\n * @type {object}\n * @property {string} name - The name of the test case\n * @property {string} status - The \"PASS\" or \"FAIL\" status of this test case\n * @property {number} [duration] - The duration (milliseconds? seconds?)\n * @property {string} [log] - Any log messages that came out of this test case\n * @property {string[]} [examples] - The \"PASS\" or \"FAIL\" status for each of this test case's examples\n */\n\n/**\n * @typedef TestExecXrayJsonTestStep\n * @type {object}\n * @property {string} status - The \"PASS\" or \"FAIL\" status of this step\n * @property {string} [comment] - A message about this step\n * @property {TestExecXrayJsonEvidence[]} [evidences] - Attachments (e.g. screenshots) proving this step's failure\n */\n\n\n/**\n * Import Test Execution results into \"Xray for Jira\" using one of the supported JSON formats.\n * @access private\n * @param {string} type - The type of JSON result to be imported. Must be one of: \"cucumber\" or \"behave\".\n * @param {TestExecCucumberJson|TestExecBehaveJson} results - The results of the Test Execution\n * @param {JiraIssueCreationJson} [issueData] - Customized field data for creating a new Test Execution issue in Jira\n */\nJiraApiWithXray.prototype._importExecResultsFromJson = function(type, results, issueData) {\n  var hasIssueData = !!issueData;\n  var requestOptions = {\n        method: 'POST',\n        pathname: '/import/execution/' + type + (hasIssueData ? '/multipart' : '')\n      };\n\n  if (hasIssueData) {\n    requestOptions.formData = {\n      result: results,\n      info: issueData\n    };\n  }\n  else {\n    requestOptions.body = results;\n  }\n\n  return this.doRequest(\n    this.makeRequestHeader(\n      this.makeXrayUri(\n        requestOptions\n      )\n    )\n  );\n};\n\n/**\n * @external {JiraCloudIssueCreationJson} https://developer.atlassian.com/cloud/jira/platform/rest/#api-api-2-issue-post\n */\n\n/*jshint ignore:start */\n/**\n * @external {JiraServerIssueCreationJson} https://docs.atlassian.com/software/jira/docs/api/REST/7.9.0/#api/2/issue-createIssue\n */\n/*jshint ignore:end */\n\n/**\n * @typedef JiraIssueCreationJson\n * @type {JiraCloudIssueCreationJson|JiraServerIssueCreationJson}\n */\n\n\n/*jshint ignore:start */\n/**\n * Import Test Execution results into \"Xray for Jira\" using the Cucumber JSON format.\n * @see https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-CucumberJSONresults\n * @see https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-CucumberJSONresultsMultipart\n * @param {TestExecCucumberJson} testExecResults - The results of the Test Execution in the Cucumber JSON format\n * @param {JiraIssueCreationJson} [issueData] - Customized field data for creating a new Test Execution issue in Jira\n */\n/*jshint ignore:end */\nJiraApiWithXray.prototype.importExecResultsFromCucumber = function(testExecResults, issueData) {\n  return this._importExecResultsFromJson('cucumber', testExecResults, issueData);\n};\n\n/*jshint ignore:start */\n/**\n * @external {TestExecCucumberJson} https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results#ImportExecutionResults-CucumberJSONoutputformat\n */\n/*jshint ignore:end */\n\n\n/*jshint ignore:start */\n/**\n * Import Test Execution results into \"Xray for Jira\" using the Behave JSON format.\n * @see https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-BehaveJSONresults\n * @see https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-BehaveJSONresultsMultipart\n * @param {TestExecBehaveJson} testExecResults - The results of the Test Execution in the Behave JSON format\n * @param {JiraIssueCreationJson} [issueData] - Customized field data for creating a new Test Execution issue in Jira\n */\n/*jshint ignore:end */\nJiraApiWithXray.prototype.importExecResultsFromBehave = function(testExecResults, issueData) {\n  return this._importExecResultsFromJson('behave', testExecResults, issueData);\n};\n\n/**\n * @external {TestExecBehaveJson} https://github.com/behave/behave/blob/master/behave/formatter/json.py\n */\n\n\n/**\n * Import Test Execution results into \"Xray for Jira\" using one of the supported XML formats.\n * @access private\n * @param {string} type - The type of XML result to be imported. Must be one of: \"junit\", \"testng\", \"nunit\", or \"robot\".\n * @param {TestExecJUnitXml|TestExecTestNGXml|TestExecNUnitXml|TestExecRobotXml|string|Buffer|ReadableStream} results -\n * The results of the Test Execution in an XML formatted string\n * @param {XrayImportQueryParams} [query] - Field data for creating a new Test Execution issue in Jira.\n * Either `query` or `issueData` must be provided but not both.\n * @param {JiraIssueCreationJson} [issueData] - Customized field data for creating a new Test Execution issue in Jira.\n * Either `query` or `issueData` must be provided but not both.\n */\nJiraApiWithXray.prototype._importExecResultsFromXml = function(type, results, query, issueData) {\n  var hasQuery = !!query;\n  var hasIssueData = !hasQuery && !!issueData;\n  var requestOptions = {\n        method: 'POST',\n        pathname: '/import/execution/' + type + (hasIssueData ? '/multipart' : ''),\n        formData: {\n          file: results\n        }\n      };\n\n  if (hasQuery) {\n    var queryOptions = Object.assign({}, query);\n\n    var testEnvs = queryOptions.testEnvironments || [];\n    if (typeof testEnvs === 'string') {\n      testEnvs = testEnvs.split(/\\s*;\\s*/);\n    }\n    if (Array.isArray(testEnvs)) {\n      testEnvs = testEnvs.filter(function(te) { return !!te.replace(/^\\s+|\\s+$/g, ''); });\n    }\n    if (testEnvs.length) {\n      queryOptions.testEnvironments = testEnvs.join(';');\n    }\n\n    requestOptions.query = queryOptions;\n  }\n  else if (hasIssueData) {\n    requestOptions.form.info = issueData;\n  }\n  else {\n    throw new TypeError('Must provide either the \"query\" or \"issueData\" parameter');\n  }\n\n  return this.doRequest(\n    this.makeRequestHeader(\n      this.makeXrayUri(\n        requestOptions\n      )\n    )\n  );\n};\n\n/**\n * @typedef XrayImportQueryParams\n * @type object\n * @property {string} [testExecKey] - The Jira issue key for an existing Test Execution that should be updated. If\n * omitted, a new Test Execution is created automatically in the Jira project indicated by `projectKey`. Either\n * `testExecKey` or `projectKey` must be provided.\n * @property {string} [projectKey] - The Jira project key where the new Test Execution issue should be created. Not\n * needed if `testExecKey` is provided. Either `testExecKey` or `projectKey` must be provided.\n * @property {string} [testPlanKey] - The Jira issue key for the associated Test Plan\n * @property {string|string[]} [testEnvironments] - The list of test environments. If provided as a string, items must\n * be delimited by a \";\".\n * @property {string} [revision] - Source code and documentation version used in the Test Execution\n * @property {string} [fixVersion] - The Jira \"Fix Version\" to be associated with the Test Execution\n */\n\n\n/*jshint ignore:start */\n/**\n * Import Test Execution results into \"Xray for Jira\" using the JUnit XML format.\n * @see https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-JUnitXMLresults\n * @see https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-JUnitXMLresultsMultipart\n * @param {TestExecJUnitXml|string|Buffer|ReadableStream} testExecResults - The results of the Test Execution in the\n * JUnit XML formatted string\n * @param {XrayImportQueryParams} [query] - Field data for creating a new Test Execution issue in Jira.\n * Either `query` or `issueData` must be provided but not both.\n * @param {JiraIssueCreationJson} [issueData] - Customized field data for creating a new Test Execution issue in Jira.\n * Either `query` or `issueData` must be provided but not both.\n */\n/*jshint ignore:end */\nJiraApiWithXray.prototype.importExecResultsFromJUnit = function(testExecResults, query, issueData) {\n  return this._importExecResultsFromXml('junit', testExecResults, query, issueData);\n};\n\n/*jshint ignore:start */\n/**\n * @external {TestExecJUnitXml} https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results#ImportExecutionResults-JUnitXMLoutputformat\n */\n/*jshint ignore:end */\n\n\n/*jshint ignore:start */\n/**\n * Import Test Execution results into \"Xray for Jira\" using the TestNG XML format.\n * @see https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-TestNGXMLresults\n * @see https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-TestNGXMLresultsMultipart\n * @param {TestExecTestNGXml|string|Buffer|ReadableStream} testExecResults - The results of the Test Execution in the\n * TestNG XML formatted string\n * @param {XrayImportQueryParams} [query] - Field data for creating a new Test Execution issue in Jira.\n * Either `query` or `issueData` must be provided but not both.\n * @param {JiraIssueCreationJson} [issueData] - Customized field data for creating a new Test Execution issue in Jira.\n * Either `query` or `issueData` must be provided but not both.\n */\n/*jshint ignore:end */\nJiraApiWithXray.prototype.importExecResultsFromTestNG = function(testExecResults, query, issueData) {\n  return this._importExecResultsFromXml('testng', testExecResults, query, issueData);\n};\n\n/*jshint ignore:start */\n/**\n * @external {TestExecTestNGXml} https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results#ImportExecutionResults-TestNGXMLoutputformat\n */\n/*jshint ignore:end */\n\n\n/*jshint ignore:start */\n/**\n * Import Test Execution results into \"Xray for Jira\" using the NUnit XML format.\n * @see https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-NUnitXMLresults\n * @see https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-NUnitXMLresultsMultipart\n * @param {TestExecNUnitXml|string|Buffer|ReadableStream} testExecResults - The results of the Test Execution in the NUnit XML formatted string\n * @param {XrayImportQueryParams} [query] - Field data for creating a new Test Execution issue in Jira.\n * Either `query` or `issueData` must be provided but not both.\n * @param {JiraIssueCreationJson} [issueData] - Customized field data for creating a new Test Execution issue in Jira.\n * Either `query` or `issueData` must be provided but not both.\n */\n/*jshint ignore:end */\nJiraApiWithXray.prototype.importExecResultsFromNUnit = function(testExecResults, query, issueData) {\n  return this._importExecResultsFromXml('nunit', testExecResults, query, issueData);\n};\n\n/*jshint ignore:start */\n/**\n * @external {TestExecNUnit30Xml} https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results#ImportExecutionResults-NUnitv3.0XMLoutputformat\n */\n/*jshint ignore:end */\n\n/*jshint ignore:start */\n/**\n * @external {TestExecNUnit26Xml} https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results#ImportExecutionResults-NUnitv2.6XMLoutputformat\n */\n/*jshint ignore:end */\n\n/**\n * @typedef TestExecNUnitXml\n * @type {TestExecNUnit30Xml|TestExecNUnit26Xml}\n */\n\n\n/*jshint ignore:start */\n/**\n * Import Test Execution results into \"Xray for Jira\" using the Robot Framework XML format.\n * @see https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-RobotFrameworkXMLresults\n * @see https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-RobotFrameworkXMLresultsMultipart\n * @param {TestExecRobotXml|string|Buffer|ReadableStream} testExecResults - The results of the Test Execution in the\n * Robot Framework XML formatted string\n * @param {XrayImportQueryParams} [query] - Field data for creating a new Test Execution issue in Jira.\n * Either `query` or `issueData` must be provided but not both.\n * @param {JiraIssueCreationJson} [issueData] - Customized field data for creating a new Test Execution issue in Jira.\n * Either `query` or `issueData` must be provided but not both.\n */\n/*jshint ignore:end */\nJiraApiWithXray.prototype.importExecResultsFromRobot = function(testExecResults, query, issueData) {\n  return this._importExecResultsFromXml('robot', testExecResults, query, issueData);\n};\n\n/**\n * @external {TestExecRobotXml} https://github.com/robotframework/robotframework/tree/master/doc/schema\n */\n\n\n/*jshint ignore:start */\n/**\n * Import multiple Test Execution results into \"Xray for Jira\" using a bundled compressed file (e.g. ZIP).\n * @see https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-MultipleExecutionResults\n * @param {string|Buffer|ReadableStream} testExecResults - The results of the multiple Test Executions\n */\n/*jshint ignore:end */\nJiraApiWithXray.prototype.importMultipleExecResults = function(testExecResults) {\n  return this.doRequest(\n    this.makeRequestHeader(\n      this.makeXrayUri({\n        method: 'POST',\n        pathname: '/import/execution/bundle',\n        formData: {\n          file: testExecResults\n        }\n      })\n    )\n  );\n};\n\n\n\n// Export\nmodule.exports = JiraApiWithXray;\n",
+    "static": true,
+    "longname": "/Users/Greene/Development/Personal/node-jira-client-xray/src/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 49,
+    "kind": "variable",
+    "name": "url",
+    "memberof": "src/index.js",
+    "static": true,
+    "longname": "src/index.js~url",
+    "access": "public",
+    "export": false,
+    "importPath": "jira-client-xray",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 50,
+    "kind": "variable",
+    "name": "util",
+    "memberof": "src/index.js",
+    "static": true,
+    "longname": "src/index.js~util",
+    "access": "public",
+    "export": false,
+    "importPath": "jira-client-xray",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 5,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 51,
+    "kind": "variable",
+    "name": "JiraApi",
+    "memberof": "src/index.js",
+    "static": true,
+    "longname": "src/index.js~JiraApi",
+    "access": "public",
+    "export": false,
+    "importPath": "jira-client-xray",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 8,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 52,
+    "kind": "function",
+    "name": "JiraApiWithXray",
+    "memberof": "src/index.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/index.js~JiraApiWithXray",
+    "access": "public",
+    "export": false,
+    "importPath": "jira-client-xray",
+    "importStyle": null,
+    "description": "",
+    "lineNumber": 16,
+    "unknown": [
+      {
+        "tagName": "@constructor",
+        "tagValue": ""
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "JiraApiWithXrayOptions"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "options",
+        "description": ""
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 53,
+    "kind": "typedef",
+    "name": "JiraApiWithXrayOptions",
+    "memberof": "src/index.js",
+    "static": true,
+    "longname": "src/index.js~JiraApiWithXrayOptions",
+    "access": "public",
+    "description": "",
+    "properties": [
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": true,
+        "defaultValue": "http",
+        "defaultRaw": "http",
+        "name": "protocol",
+        "description": "What protocol to use to connect to\nJira? Ex: http|https"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "host",
+        "description": "What host is this tool connecting to for the Jira\ninstance? Ex: jira.somehost.com"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "port",
+        "description": "What port is this tool connecting to Jira with? Only needed for\nnone standard ports. Ex: 8080, 3000, etc"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "username",
+        "description": "Specify a username for this tool to authenticate all\nrequests with."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "password",
+        "description": "Specify a password for this tool to authenticate all\nrequests with."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": true,
+        "defaultValue": "2",
+        "defaultRaw": 2,
+        "name": "apiVersion",
+        "description": "What version of the Jira REST API is the instance the\ntool is connecting to?"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "base",
+        "description": "What other url parts exist, if any, before the rest/api/\nsection?"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "intermediatePath",
+        "description": "If specified, overwrites the default rest/api/version\nsection of the uri"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "boolean"
+        ],
+        "spread": false,
+        "optional": true,
+        "defaultValue": "true",
+        "defaultRaw": true,
+        "name": "strictSSL",
+        "description": "Does this tool require each request to be\nauthenticated?  Defaults to true."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "function"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "request",
+        "description": "What method does this tool use to make its requests?\nDefaults to request from request-promise"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "number"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "timeout",
+        "description": "Integer containing the number of milliseconds to wait for a\nserver to send response headers (and start the response body) before aborting the request. Note\nthat if the underlying TCP connection cannot be established, the OS-wide TCP connection timeout\nwill overrule the timeout option ([the default in Linux can be anywhere from 20-120 *\nseconds](http://www.sekuda.com/overriding_the_default_linux_kernel_20_second_tcp_socket_connect_timeout))."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": true,
+        "defaultValue": "1.0",
+        "defaultRaw": 1,
+        "name": "webhookVersion",
+        "description": "What webhook version does this api wrapper need to\nhit?"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": true,
+        "defaultValue": "1.0",
+        "defaultRaw": 1,
+        "name": "greenhopperVersion",
+        "description": "What webhook version does this api wrapper need\nto hit?"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "OAuth"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "oauth",
+        "description": "Specify an OAuth object for this tool to authenticate all requests\nusing OAuth."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "bearer",
+        "description": "Specify a OAuth bearer token to authenticate all requests with."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": true,
+        "defaultValue": "1.0",
+        "defaultRaw": 1,
+        "name": "xrayVersion",
+        "description": "What version of the \"Xray for Jira\" REST API is the\ninstance the tool is connecting to?"
+      }
+    ],
+    "type": {
+      "types": [
+        "*"
+      ],
+      "optional": false,
+      "name": "JiraApiWithXrayOptions"
+    }
+  },
+  {
+    "__docId__": 54,
+    "kind": "typedef",
+    "name": "OAuth",
+    "memberof": "src/index.js",
+    "static": true,
+    "longname": "src/index.js~OAuth",
+    "access": "public",
+    "description": "",
+    "properties": [
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "consumer_key",
+        "description": "The consumer entered in Jira Preferences."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "consumer_secret",
+        "description": "The private RSA file."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "access_token",
+        "description": "The generated access token."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "access_token_secret",
+        "description": "The generated access toke secret."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "signature_method",
+        "description": "[signature_method=RSA-SHA1] - OAuth signurate methode\nPossible values RSA-SHA1, HMAC-SHA1, PLAINTEXT. Jira Cloud supports only RSA-SHA1."
+      }
+    ],
+    "type": {
+      "types": [
+        "*"
+      ],
+      "optional": false,
+      "name": "OAuth"
+    }
+  },
+  {
+    "__docId__": 55,
+    "kind": "function",
+    "name": "makeXrayUri",
+    "memberof": "src/index.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/index.js~makeXrayUri",
+    "access": "public",
+    "export": false,
+    "importPath": "jira-client-xray",
+    "importStyle": null,
+    "description": "Creates a URI object for a given pathName within the \"Xray for Jira\" REST API",
+    "lineNumber": 87,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "makeXrayUriOptions"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "options",
+        "description": "An options object specifying uri information"
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 56,
+    "kind": "typedef",
+    "name": "makeXrayUriOptions",
+    "memberof": "src/index.js",
+    "static": true,
+    "longname": "src/index.js~makeXrayUriOptions",
+    "access": "public",
+    "description": "",
+    "properties": [
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "pathname",
+        "description": "The url after the /rest/raven/version"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "intermediatePath",
+        "description": "If specified will overwrite the /rest/raven/version section"
+      }
+    ],
+    "type": {
+      "types": [
+        "*"
+      ],
+      "optional": false,
+      "name": "makeXrayUriOptions"
+    }
+  },
+  {
+    "__docId__": 57,
+    "kind": "function",
+    "name": "importExecResultsFromXray",
+    "memberof": "src/index.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/index.js~importExecResultsFromXray",
+    "access": "public",
+    "export": false,
+    "importPath": "jira-client-xray",
+    "importStyle": null,
+    "description": "Import Test Execution results into \"Xray for Jira\" using the Xray JSON format.",
+    "see": [
+      "https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-XrayJSONresults"
+    ],
+    "lineNumber": 115,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "TestExecXrayJson"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "testExecResults",
+        "description": "The results of the Test Execution in the Xray JSON format"
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 58,
+    "kind": "typedef",
+    "name": "TestExecXrayJson",
+    "memberof": "src/index.js",
+    "static": true,
+    "longname": "src/index.js~TestExecXrayJson",
+    "access": "public",
+    "description": "",
+    "see": [
+      "https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results#ImportExecutionResults-XrayJSONformat"
+    ],
+    "properties": [
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "testExecutionKey",
+        "description": "The Jira issue key for an existing Test Execution that should be updated. If omitted, a new Test Execution is created automatically."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "TestExecXrayJsonInfo"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "info",
+        "description": "Test Execution metadata"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "TestExecXrayJsonTestRun[]"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "tests",
+        "description": "The results of the Test Run"
+      }
+    ],
+    "type": {
+      "types": [
+        "*"
+      ],
+      "optional": false,
+      "name": "TestExecXrayJson"
+    }
+  },
+  {
+    "__docId__": 59,
+    "kind": "typedef",
+    "name": "TestExecXrayJsonInfo",
+    "memberof": "src/index.js",
+    "static": true,
+    "longname": "src/index.js~TestExecXrayJsonInfo",
+    "access": "public",
+    "description": "",
+    "properties": [
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "project",
+        "description": "The Jira project ID"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "summary",
+        "description": "Summary of the Test Execution"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "description",
+        "description": "Description of the Test Execution"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "user",
+        "description": "The Jira user logging the Test Execution results"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "version",
+        "description": "Version under test"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "revision",
+        "description": "The revision/build/branch under test"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "startDate",
+        "description": "The ISO date timestamp at which the Test Execution started"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "finishDate",
+        "description": "The ISO date timestamp at which the Test Execution finished"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "testPlanKey",
+        "description": "The Jira issue key for the associated Test Plan"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string[]"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "testEnvironments",
+        "description": "The environmental configuration under test"
+      }
+    ],
+    "type": {
+      "types": [
+        "*"
+      ],
+      "optional": false,
+      "name": "TestExecXrayJsonInfo"
+    }
+  },
+  {
+    "__docId__": 60,
+    "kind": "typedef",
+    "name": "TestExecXrayJsonTestRun",
+    "memberof": "src/index.js",
+    "static": true,
+    "longname": "src/index.js~TestExecXrayJsonTestRun",
+    "access": "public",
+    "description": "",
+    "properties": [
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "testKey",
+        "description": "The Jira issue key for the associated Test"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "status",
+        "description": "The \"PASS\" or \"FAIL\" status for the Test Run as a whole"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "comment",
+        "description": "A message about this Test Run"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "start",
+        "description": "The ISO date timestamp at which this Test Run started"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "finish",
+        "description": "The ISO date timestamp at which this Test Run finished"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "executedBy",
+        "description": "The Jira user who executed this Test Run"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "TestExecXrayJsonEvidence[]"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "evidences",
+        "description": "Attachments (e.g. screenshots) proving the Test Run's failure"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "TestExecXrayJsonResult[]"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "results",
+        "description": "Detailed results of individual test cases within this Test Run"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string[]"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "examples",
+        "description": "The \"PASS\" or \"FAIL\" status for each of the Test Run's examples"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "TestExecXrayJsonTestStep[]"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "steps",
+        "description": "Details about each Test step and its outcome"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string[]"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "defects",
+        "description": "The Jira issue keys for any associated bugs recorded during this Test Run"
+      }
+    ],
+    "type": {
+      "types": [
+        "*"
+      ],
+      "optional": false,
+      "name": "TestExecXrayJsonTestRun"
+    }
+  },
+  {
+    "__docId__": 61,
+    "kind": "typedef",
+    "name": "TestExecXrayJsonEvidence",
+    "memberof": "src/index.js",
+    "static": true,
+    "longname": "src/index.js~TestExecXrayJsonEvidence",
+    "access": "public",
+    "description": "",
+    "properties": [
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "data",
+        "description": "The base64-encoded string of data representing this attachment"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "filename",
+        "description": "The basename of the file associated with this attachment"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "contentType",
+        "description": "The MIME type associated with this attachment, e.g. \"image/jpeg\""
+      }
+    ],
+    "type": {
+      "types": [
+        "*"
+      ],
+      "optional": false,
+      "name": "TestExecXrayJsonEvidence"
+    }
+  },
+  {
+    "__docId__": 62,
+    "kind": "typedef",
+    "name": "TestExecXrayJsonResult",
+    "memberof": "src/index.js",
+    "static": true,
+    "longname": "src/index.js~TestExecXrayJsonResult",
+    "access": "public",
+    "description": "",
+    "properties": [
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "name",
+        "description": "The name of the test case"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "status",
+        "description": "The \"PASS\" or \"FAIL\" status of this test case"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "number"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "duration",
+        "description": "The duration (milliseconds? seconds?)"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "log",
+        "description": "Any log messages that came out of this test case"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string[]"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "examples",
+        "description": "The \"PASS\" or \"FAIL\" status for each of this test case's examples"
+      }
+    ],
+    "type": {
+      "types": [
+        "*"
+      ],
+      "optional": false,
+      "name": "TestExecXrayJsonResult"
+    }
+  },
+  {
+    "__docId__": 63,
+    "kind": "typedef",
+    "name": "TestExecXrayJsonTestStep",
+    "memberof": "src/index.js",
+    "static": true,
+    "longname": "src/index.js~TestExecXrayJsonTestStep",
+    "access": "public",
+    "description": "",
+    "properties": [
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "status",
+        "description": "The \"PASS\" or \"FAIL\" status of this step"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "comment",
+        "description": "A message about this step"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "TestExecXrayJsonEvidence[]"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "evidences",
+        "description": "Attachments (e.g. screenshots) proving this step's failure"
+      }
+    ],
+    "type": {
+      "types": [
+        "*"
+      ],
+      "optional": false,
+      "name": "TestExecXrayJsonTestStep"
+    }
+  },
+  {
+    "__docId__": 64,
+    "kind": "function",
+    "name": "_importExecResultsFromJson",
+    "memberof": "src/index.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/index.js~_importExecResultsFromJson",
+    "access": "private",
+    "export": false,
+    "importPath": "jira-client-xray",
+    "importStyle": null,
+    "description": "Import Test Execution results into \"Xray for Jira\" using one of the supported JSON formats.",
+    "lineNumber": 203,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "type",
+        "description": "The type of JSON result to be imported. Must be one of: \"cucumber\" or \"behave\"."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "TestExecCucumberJson",
+          "TestExecBehaveJson"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "results",
+        "description": "The results of the Test Execution"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "JiraIssueCreationJson"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "issueData",
+        "description": "Customized field data for creating a new Test Execution issue in Jira"
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 65,
+    "kind": "external",
+    "name": "JiraCloudIssueCreationJson",
+    "externalLink": "https://developer.atlassian.com/cloud/jira/platform/rest/#api-api-2-issue-post",
+    "memberof": "src/index.js",
+    "static": true,
+    "longname": "src/index.js~JiraCloudIssueCreationJson",
+    "access": "public",
+    "description": ""
+  },
+  {
+    "__docId__": 66,
+    "kind": "external",
+    "name": "JiraServerIssueCreationJson",
+    "externalLink": "https://docs.atlassian.com/software/jira/docs/api/REST/7.9.0/#api/2/issue-createIssue",
+    "memberof": "src/index.js",
+    "static": true,
+    "longname": "src/index.js~JiraServerIssueCreationJson",
+    "access": "public",
+    "description": ""
+  },
+  {
+    "__docId__": 67,
+    "kind": "typedef",
+    "name": "JiraIssueCreationJson",
+    "memberof": "src/index.js",
+    "static": true,
+    "longname": "src/index.js~JiraIssueCreationJson",
+    "access": "public",
+    "description": "",
+    "type": {
+      "types": [
+        "*"
+      ],
+      "optional": false,
+      "name": "JiraIssueCreationJson"
+    }
+  },
+  {
+    "__docId__": 68,
+    "kind": "function",
+    "name": "importExecResultsFromCucumber",
+    "memberof": "src/index.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/index.js~importExecResultsFromCucumber",
+    "access": "public",
+    "export": false,
+    "importPath": "jira-client-xray",
+    "importStyle": null,
+    "description": "Import Test Execution results into \"Xray for Jira\" using the Cucumber JSON format.",
+    "see": [
+      "https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-CucumberJSONresults",
+      "https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-CucumberJSONresultsMultipart"
+    ],
+    "lineNumber": 254,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "TestExecCucumberJson"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "testExecResults",
+        "description": "The results of the Test Execution in the Cucumber JSON format"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "JiraIssueCreationJson"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "issueData",
+        "description": "Customized field data for creating a new Test Execution issue in Jira"
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 69,
+    "kind": "external",
+    "name": "TestExecCucumberJson",
+    "externalLink": "https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results#ImportExecutionResults-CucumberJSONoutputformat",
+    "memberof": "src/index.js",
+    "static": true,
+    "longname": "src/index.js~TestExecCucumberJson",
+    "access": "public",
+    "description": ""
+  },
+  {
+    "__docId__": 70,
+    "kind": "function",
+    "name": "importExecResultsFromBehave",
+    "memberof": "src/index.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/index.js~importExecResultsFromBehave",
+    "access": "public",
+    "export": false,
+    "importPath": "jira-client-xray",
+    "importStyle": null,
+    "description": "Import Test Execution results into \"Xray for Jira\" using the Behave JSON format.",
+    "see": [
+      "https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-BehaveJSONresults",
+      "https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-BehaveJSONresultsMultipart"
+    ],
+    "lineNumber": 274,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "TestExecBehaveJson"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "testExecResults",
+        "description": "The results of the Test Execution in the Behave JSON format"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "JiraIssueCreationJson"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "issueData",
+        "description": "Customized field data for creating a new Test Execution issue in Jira"
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 71,
+    "kind": "external",
+    "name": "TestExecBehaveJson",
+    "externalLink": "https://github.com/behave/behave/blob/master/behave/formatter/json.py",
+    "memberof": "src/index.js",
+    "static": true,
+    "longname": "src/index.js~TestExecBehaveJson",
+    "access": "public",
+    "description": ""
+  },
+  {
+    "__docId__": 72,
+    "kind": "function",
+    "name": "_importExecResultsFromXml",
+    "memberof": "src/index.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/index.js~_importExecResultsFromXml",
+    "access": "private",
+    "export": false,
+    "importPath": "jira-client-xray",
+    "importStyle": null,
+    "description": "Import Test Execution results into \"Xray for Jira\" using one of the supported XML formats.",
+    "lineNumber": 294,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "type",
+        "description": "The type of XML result to be imported. Must be one of: \"junit\", \"testng\", \"nunit\", or \"robot\"."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "TestExecJUnitXml",
+          "TestExecTestNGXml",
+          "TestExecNUnitXml",
+          "TestExecRobotXml",
+          "string",
+          "Buffer",
+          "ReadableStream"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "results",
+        "description": "The results of the Test Execution in an XML formatted string"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "XrayImportQueryParams"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "query",
+        "description": "Field data for creating a new Test Execution issue in Jira.\nEither `query` or `issueData` must be provided but not both."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "JiraIssueCreationJson"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "issueData",
+        "description": "Customized field data for creating a new Test Execution issue in Jira.\nEither `query` or `issueData` must be provided but not both."
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 73,
+    "kind": "typedef",
+    "name": "XrayImportQueryParams",
+    "memberof": "src/index.js",
+    "static": true,
+    "longname": "src/index.js~XrayImportQueryParams",
+    "access": "public",
+    "description": "",
+    "properties": [
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "testExecKey",
+        "description": "The Jira issue key for an existing Test Execution that should be updated. If\nomitted, a new Test Execution is created automatically in the Jira project indicated by `projectKey`. Either\n`testExecKey` or `projectKey` must be provided."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "projectKey",
+        "description": "The Jira project key where the new Test Execution issue should be created. Not\nneeded if `testExecKey` is provided. Either `testExecKey` or `projectKey` must be provided."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "testPlanKey",
+        "description": "The Jira issue key for the associated Test Plan"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string",
+          "string[]"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "testEnvironments",
+        "description": "The list of test environments. If provided as a string, items must\nbe delimited by a \";\"."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "revision",
+        "description": "Source code and documentation version used in the Test Execution"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "fixVersion",
+        "description": "The Jira \"Fix Version\" to be associated with the Test Execution"
+      }
+    ],
+    "type": {
+      "types": [
+        "*"
+      ],
+      "optional": false,
+      "name": "XrayImportQueryParams"
+    }
+  },
+  {
+    "__docId__": 74,
+    "kind": "function",
+    "name": "importExecResultsFromJUnit",
+    "memberof": "src/index.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/index.js~importExecResultsFromJUnit",
+    "access": "public",
+    "export": false,
+    "importPath": "jira-client-xray",
+    "importStyle": null,
+    "description": "Import Test Execution results into \"Xray for Jira\" using the JUnit XML format.",
+    "see": [
+      "https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-JUnitXMLresults",
+      "https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-JUnitXMLresultsMultipart"
+    ],
+    "lineNumber": 366,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "TestExecJUnitXml",
+          "string",
+          "Buffer",
+          "ReadableStream"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "testExecResults",
+        "description": "The results of the Test Execution in the\nJUnit XML formatted string"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "XrayImportQueryParams"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "query",
+        "description": "Field data for creating a new Test Execution issue in Jira.\nEither `query` or `issueData` must be provided but not both."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "JiraIssueCreationJson"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "issueData",
+        "description": "Customized field data for creating a new Test Execution issue in Jira.\nEither `query` or `issueData` must be provided but not both."
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 75,
+    "kind": "external",
+    "name": "TestExecJUnitXml",
+    "externalLink": "https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results#ImportExecutionResults-JUnitXMLoutputformat",
+    "memberof": "src/index.js",
+    "static": true,
+    "longname": "src/index.js~TestExecJUnitXml",
+    "access": "public",
+    "description": ""
+  },
+  {
+    "__docId__": 76,
+    "kind": "function",
+    "name": "importExecResultsFromTestNG",
+    "memberof": "src/index.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/index.js~importExecResultsFromTestNG",
+    "access": "public",
+    "export": false,
+    "importPath": "jira-client-xray",
+    "importStyle": null,
+    "description": "Import Test Execution results into \"Xray for Jira\" using the TestNG XML format.",
+    "see": [
+      "https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-TestNGXMLresults",
+      "https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-TestNGXMLresultsMultipart"
+    ],
+    "lineNumber": 390,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "TestExecTestNGXml",
+          "string",
+          "Buffer",
+          "ReadableStream"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "testExecResults",
+        "description": "The results of the Test Execution in the\nTestNG XML formatted string"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "XrayImportQueryParams"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "query",
+        "description": "Field data for creating a new Test Execution issue in Jira.\nEither `query` or `issueData` must be provided but not both."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "JiraIssueCreationJson"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "issueData",
+        "description": "Customized field data for creating a new Test Execution issue in Jira.\nEither `query` or `issueData` must be provided but not both."
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 77,
+    "kind": "external",
+    "name": "TestExecTestNGXml",
+    "externalLink": "https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results#ImportExecutionResults-TestNGXMLoutputformat",
+    "memberof": "src/index.js",
+    "static": true,
+    "longname": "src/index.js~TestExecTestNGXml",
+    "access": "public",
+    "description": ""
+  },
+  {
+    "__docId__": 78,
+    "kind": "function",
+    "name": "importExecResultsFromNUnit",
+    "memberof": "src/index.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/index.js~importExecResultsFromNUnit",
+    "access": "public",
+    "export": false,
+    "importPath": "jira-client-xray",
+    "importStyle": null,
+    "description": "Import Test Execution results into \"Xray for Jira\" using the NUnit XML format.",
+    "see": [
+      "https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-NUnitXMLresults",
+      "https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-NUnitXMLresultsMultipart"
+    ],
+    "lineNumber": 413,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "TestExecNUnitXml",
+          "string",
+          "Buffer",
+          "ReadableStream"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "testExecResults",
+        "description": "The results of the Test Execution in the NUnit XML formatted string"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "XrayImportQueryParams"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "query",
+        "description": "Field data for creating a new Test Execution issue in Jira.\nEither `query` or `issueData` must be provided but not both."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "JiraIssueCreationJson"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "issueData",
+        "description": "Customized field data for creating a new Test Execution issue in Jira.\nEither `query` or `issueData` must be provided but not both."
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 79,
+    "kind": "external",
+    "name": "TestExecNUnit30Xml",
+    "externalLink": "https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results#ImportExecutionResults-NUnitv3.0XMLoutputformat",
+    "memberof": "src/index.js",
+    "static": true,
+    "longname": "src/index.js~TestExecNUnit30Xml",
+    "access": "public",
+    "description": ""
+  },
+  {
+    "__docId__": 80,
+    "kind": "external",
+    "name": "TestExecNUnit26Xml",
+    "externalLink": "https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results#ImportExecutionResults-NUnitv2.6XMLoutputformat",
+    "memberof": "src/index.js",
+    "static": true,
+    "longname": "src/index.js~TestExecNUnit26Xml",
+    "access": "public",
+    "description": ""
+  },
+  {
+    "__docId__": 81,
+    "kind": "typedef",
+    "name": "TestExecNUnitXml",
+    "memberof": "src/index.js",
+    "static": true,
+    "longname": "src/index.js~TestExecNUnitXml",
+    "access": "public",
+    "description": "",
+    "type": {
+      "types": [
+        "*"
+      ],
+      "optional": false,
+      "name": "TestExecNUnitXml"
+    }
+  },
+  {
+    "__docId__": 82,
+    "kind": "function",
+    "name": "importExecResultsFromRobot",
+    "memberof": "src/index.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/index.js~importExecResultsFromRobot",
+    "access": "public",
+    "export": false,
+    "importPath": "jira-client-xray",
+    "importStyle": null,
+    "description": "Import Test Execution results into \"Xray for Jira\" using the Robot Framework XML format.",
+    "see": [
+      "https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-RobotFrameworkXMLresults",
+      "https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-RobotFrameworkXMLresultsMultipart"
+    ],
+    "lineNumber": 448,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "TestExecRobotXml",
+          "string",
+          "Buffer",
+          "ReadableStream"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "testExecResults",
+        "description": "The results of the Test Execution in the\nRobot Framework XML formatted string"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "XrayImportQueryParams"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "query",
+        "description": "Field data for creating a new Test Execution issue in Jira.\nEither `query` or `issueData` must be provided but not both."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "JiraIssueCreationJson"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "issueData",
+        "description": "Customized field data for creating a new Test Execution issue in Jira.\nEither `query` or `issueData` must be provided but not both."
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 83,
+    "kind": "external",
+    "name": "TestExecRobotXml",
+    "externalLink": "https://github.com/robotframework/robotframework/tree/master/doc/schema",
+    "memberof": "src/index.js",
+    "static": true,
+    "longname": "src/index.js~TestExecRobotXml",
+    "access": "public",
+    "description": ""
+  },
+  {
+    "__docId__": 84,
+    "kind": "function",
+    "name": "importMultipleExecResults",
+    "memberof": "src/index.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/index.js~importMultipleExecResults",
+    "access": "public",
+    "export": false,
+    "importPath": "jira-client-xray",
+    "importStyle": null,
+    "description": "Import multiple Test Execution results into \"Xray for Jira\" using a bundled compressed file (e.g. ZIP).",
+    "see": [
+      "https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-MultipleExecutionResults"
+    ],
+    "lineNumber": 464,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "string",
+          "Buffer",
+          "ReadableStream"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "testExecResults",
+        "description": "The results of the multiple Test Executions"
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "kind": "index",
+    "content": "# `jira-client-xray`\n[![NPM version](https://img.shields.io/npm/v/jira-client-xray.svg)](https://www.npmjs.com/package/jira-client-xray) [![License](https://img.shields.io/github/license/JamesMGreene/node-jira-client-xray.svg)](https://github.com/JamesMGreene/node-jira-client-xray/blob/master/LICENSE) [![Build Status](https://img.shields.io/travis/JamesMGreene/node-jira-client-xray/master.svg)](https://travis-ci.org/JamesMGreene/node-jira-client-xray) [![Dependency Status](https://img.shields.io/david/JamesMGreene/node-jira-client-xray.svg)](https://david-dm.org/JamesMGreene/node-jira-client-xray) [![Dev Dependency Status](https://img.shields.io/david/dev/JamesMGreene/node-jira-client-xray.svg)](https://david-dm.org/JamesMGreene/node-jira-client-xray#info=devDependencies)\n\nAn extended wrapper of the existing [`jira-client`](https://www.npmjs.com/package/jira-client) module, which adds support for the [\"Xray for Jira\"](https://confluence.xpand-addons.com/display/XRAY/) Test Management plugin's [REST API](https://confluence.xpand-addons.com/display/XRAY/REST+API).\n\n\n## Installation\n\n```shell\n$ npm install --save jira-client-xray\n```\n\n\n## API\n\n### Create A Client\n\n```js\nvar JiraApiWithXray = require('jira-client-xray');\n\n// Initialize\nvar jira = new JiraApiWithXray({\n  strictSSL: true,\n  protocol: 'https',\n  username: 'username',\n  password: 'password',\n  host: 'jira.somehost.com',\n  base: 'jira',\n  xrayVersion: '1.0'\n});\n```\n\nThe constructor `options` parameter is a superset of the [`jira-client`](https://www.npmjs.com/package/jira-client) module's constructor's `options` parameter. It contains all of those configuration options, plus the following additional properties:\n - `xrayVersion` _(string)_ - The REST API version of the \"Xray for Jira\" plugin. Defaults to `'1.0'`.\n\n\n### Import Test Execution Results\n\nFor deeper documentation, please view our [ESDoc-generated documentation](https://jamesmgreene.github.io/node-jira-client-xray/).\n\n##### Response Schema\n\nThe HTTP response object (referred to as the \"testExecIssueId\" in all subsequent examples) returned from the `Promise` for each of the following import methods is as follows:\n\n```json\n{\n  \"testExecIssue\": {\n    \"id\": \"10000\",\n    \"key\": \"DEMO-123\",\n    \"self\": \"http://www.example.com/jira/rest/api/2/issue/10000\"\n  }\n}\n```\n\n##### Jira Issue Customization Request Schema\n\nThe JSON schema for the `issueData` parameter that is an optional part of some of these API calls is as follows:\n\n[![Jira Cloud](https://img.shields.io/badge/Jira%2FCloud--blue.svg)](https://developer.atlassian.com/cloud/jira/platform/rest/#api-api-2-issue-post) [![Jira Server](https://img.shields.io/badge/Jira%2FServer-v7.9.0-blue.svg)](https://docs.atlassian.com/software/jira/docs/api/REST/7.9.0/#api/2/issue-createIssue)\n\n\n#### Xray JSON\n\n[![API Documentation](https://img.shields.io/badge/API%2FDocumentation--blue.svg)](https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-XrayJSONresults) [![Request Schema](https://img.shields.io/badge/Request%2FSchema--blue.svg)](https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results#ImportExecutionResults-XrayJSONformat)\n\n```js\njira\n  .importExecResultsFromXray(testExecResults)\n  .then(function(testExecIssueId) { /* ... */ });\n```\n\n\n#### Cucumber JSON\n\n[![Request Schema](https://img.shields.io/badge/Request%2FSchema--blue.svg)](https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results#ImportExecutionResults-CucumberJSONoutputformat)\n\n##### Results Only\n\n[![API Documentation](https://img.shields.io/badge/API%2FDocumentation--blue.svg)](https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-CucumberJSONresults)\n\n```js\njira\n  .importExecResultsFromCucumber(testExecResults)\n  .then(function(testExecIssueId) { /* ... */ });\n```\n\n##### With JIRA Issue Customization\n\n[![API Documentation](https://img.shields.io/badge/API%2FDocumentation--blue.svg)](https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-CucumberJSONresultsMultipart)\n\n```js\njira\n  .importExecResultsFromCucumber(testExecResults, issueData)\n  .then(function(testExecIssueId) { /* ... */ });\n```\n\n\n#### Behave JSON\n\n[![Request Schema](https://img.shields.io/badge/Request%2FSchema--blue.svg)](https://github.com/behave/behave/blob/master/behave/formatter/json.py)\n\n##### Results Only\n\n[![API Documentation](https://img.shields.io/badge/API%2FDocumentation--blue.svg)](https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-BehaveJSONresults)\n\n```js\njira\n  .importExecResultsFromBehave(testExecResults)\n  .then(function(testExecIssueId) { /* ... */ });\n```\n\n##### With JIRA Issue Customization\n\n[![API Documentation](https://img.shields.io/badge/API%2FDocumentation--blue.svg)](https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-BehaveJSONresultsMultipart)\n\n```js\njira\n  .importExecResultsFromBehave(testExecResults, issueData)\n  .then(function(testExecIssueId) { /* ... */ });\n```\n\n\n#### JUnit XML\n\n[![Request Schema](https://img.shields.io/badge/Request%2FSchema--blue.svg)](https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results#ImportExecutionResults-JUnitXMLoutputformat)\n\n##### Results Only\n\n[![API Documentation](https://img.shields.io/badge/API%2FDocumentation--blue.svg)](https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-JUnitXMLresults)\n\n```js\njira\n  .importExecResultsFromJUnit(testExecResults, query)\n  .then(function(testExecIssueId) { /* ... */ });\n```\n\n##### With JIRA Issue Customization\n\n[![API Documentation](https://img.shields.io/badge/API%2FDocumentation--blue.svg)](https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-JUnitXMLresultsMultipart)\n\n```js\njira\n  .importExecResultsFromJUnit(testExecResults, null, issueData)\n  .then(function(testExecIssueId) { /* ... */ });\n```\n\n\n#### TestNG XML\n\n[![Request Schema](https://img.shields.io/badge/Request%2FSchema--blue.svg)](https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results#ImportExecutionResults-TestNGXMLoutputformat)\n\n##### Results Only\n\n[![API Documentation](https://img.shields.io/badge/API%2FDocumentation--blue.svg)](https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-TestNGXMLresults)\n\n```js\njira\n  .importExecResultsFromTestNG(testExecResults, query)\n  .then(function(testExecIssueId) { /* ... */ });\n```\n\n##### With JIRA Issue Customization\n\n[![API Documentation](https://img.shields.io/badge/API%2FDocumentation--blue.svg)](https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-TestNGXMLresultsMultipart)\n\n```js\njira\n  .importExecResultsFromTestNG(testExecResults, null, issueData)\n  .then(function(testExecIssueId) { /* ... */ });\n```\n\n\n#### NUnit XML\n\n[![Request Schema v3.0](https://img.shields.io/badge/Request%2FSchema-v3.0-blue.svg)](https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results#ImportExecutionResults-NUnitv3.0XMLoutputformat) [![Request Schema v2.6](https://img.shields.io/badge/Request%2FSchema-v2.6-blue.svg)](https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results#ImportExecutionResults-NUnitv2.6XMLoutputformat)\n\n##### Results Only\n\n[![API Documentation](https://img.shields.io/badge/API%2FDocumentation--blue.svg)](https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-NUnitXMLresults)\n\n```js\njira\n  .importExecResultsFromNUnit(testExecResults, query)\n  .then(function(testExecIssueId) { /* ... */ });\n```\n\n##### With JIRA Issue Customization\n\n[![API Documentation](https://img.shields.io/badge/API%2FDocumentation--blue.svg)](https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-NUnitXMLresultsMultipart)\n\n```js\njira\n  .importExecResultsFromNUnit(testExecResults, null, issueData)\n  .then(function(testExecIssueId) { /* ... */ });\n```\n\n\n#### Robot Framework XML\n\n[![Request Schema](https://img.shields.io/badge/Request%2FSchema--blue.svg)](https://github.com/robotframework/robotframework/tree/master/doc/schema)\n\n##### Results Only\n\n[![API Documentation](https://img.shields.io/badge/API%2FDocumentation--blue.svg)](https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-RobotFrameworkXMLresults)\n\n```js\njira\n  .importExecResultsFromRobot(testExecResults, query)\n  .then(function(testExecIssueId) { /* ... */ });\n```\n\n##### With JIRA Issue Customization\n\n[![API Documentation](https://img.shields.io/badge/API%2FDocumentation--blue.svg)](https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-RobotFrameworkXMLresultsMultipart)\n\n```js\njira\n  .importExecResultsFromRobot(testExecResults, null, issueData)\n  .then(function(testExecIssueId) { /* ... */ });\n```\n\n\n\n## License\n\nCopyright (c) 2018, James M. Greene (MIT License)\n",
+    "longname": "/Users/Greene/Development/Personal/node-jira-client-xray/README.md",
+    "name": "./README.md",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "packageJSON",
+    "content": "{\n  \"name\": \"jira-client-xray\",\n  \"version\": \"1.0.0\",\n  \"description\": \"An extended wrapper of the existing \\\"jira-client\\\" module, which adds support for the \\\"Xray for Jira\\\" Test Management plugin's REST API\",\n  \"author\": {\n    \"name\": \"James M. Greene\",\n    \"email\": \"james.m.greene@gmail.com\",\n    \"url\": \"https://jamesmgreene.github.io/\"\n  },\n  \"license\": \"MIT\",\n  \"repository\": {\n    \"type\": \"git\",\n    \"url\": \"git://github.com/JamesMGreene/node-jira-client-xray.git\"\n  },\n  \"bugs\": {\n    \"url\": \"https://github.com/JamesMGreene/node-jira-client-xray/issues\"\n  },\n  \"homepage\": \"https://github.com/JamesMGreene/node-jira-client-xray#readme\",\n  \"keywords\": [\n    \"jira-client\",\n    \"Xray for Jira\",\n    \"Jira\",\n    \"Xray\",\n    \"Test Management\",\n    \"Test Execution\",\n    \"Import\",\n    \"REST\",\n    \"API\",\n    \"Client\"\n  ],\n  \"main\": \"src/index.js\",\n  \"engine\": {\n    \"node\": \">=4.2.2\"\n  },\n  \"scripts\": {\n    \"esdoc\": \"rm -rf docs/ && esdoc\",\n    \"lint\": \"jshint src/\",\n    \"test\": \"npm run lint && npm run esdoc\"\n  },\n  \"dependencies\": {\n    \"jira-client\": \"^6.4.0\",\n    \"request\": \"^2.85.0\"\n  },\n  \"devDependencies\": {\n    \"esdoc\": \"^1.0.4\",\n    \"esdoc-node\": \"^1.0.3\",\n    \"esdoc-standard-plugin\": \"^1.0.0\",\n    \"jshint\": \"^2.9.5\"\n  }\n}\n",
+    "longname": "/Users/Greene/Development/Personal/node-jira-client-xray/package.json",
+    "name": "package.json",
+    "static": true,
+    "access": "public"
+  }
+]

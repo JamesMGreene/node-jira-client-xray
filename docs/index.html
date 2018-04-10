@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <base data-ice="baseUrl">
+  <title data-ice="title">Home | jira-client-xray</title>
+  <link type="text/css" rel="stylesheet" href="css/style.css">
+  <link type="text/css" rel="stylesheet" href="css/prettify-tomorrow.css">
+  <script src="script/prettify/prettify.js"></script>
+  <script src="script/manual.js"></script>
+<meta name="description" content="An extended wrapper of the existing " jira-client"="" module,="" which="" adds="" support="" for="" the="" "xray="" jira"="" test="" management="" plugin's="" rest="" api"=""><meta property="twitter:card" content="summary"><meta property="twitter:title" content="jira-client-xray"><meta property="twitter:description" content="An extended wrapper of the existing " jira-client"="" module,="" which="" adds="" support="" for="" the="" "xray="" jira"="" test="" management="" plugin's="" rest="" api"=""></head>
+<body class="layout-container" data-ice="rootContainer">
+
+<header>
+  <a href="./">Home</a>
+  
+  <a href="identifiers.html">Reference</a>
+  <a href="source.html">Source</a>
+  
+  <div class="search-box">
+  <span>
+    <img src="./image/search.png">
+    <span class="search-input-edge"></span><input class="search-input"><span class="search-input-edge"></span>
+  </span>
+    <ul class="search-result"></ul>
+  </div>
+</header>
+
+<nav class="navigation" data-ice="nav"><div>
+  <ul>
+    
+  <li data-ice="doc"><span data-ice="kind" class="kind-typedef">T</span><span data-ice="name"><span><a href="typedef/index.html#static-typedef-JiraApiWithXrayOptions">JiraApiWithXrayOptions</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-typedef">T</span><span data-ice="name"><span><a href="typedef/index.html#static-typedef-JiraIssueCreationJson">JiraIssueCreationJson</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-typedef">T</span><span data-ice="name"><span><a href="typedef/index.html#static-typedef-OAuth">OAuth</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-typedef">T</span><span data-ice="name"><span><a href="typedef/index.html#static-typedef-TestExecNUnitXml">TestExecNUnitXml</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-typedef">T</span><span data-ice="name"><span><a href="typedef/index.html#static-typedef-TestExecXrayJson">TestExecXrayJson</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-typedef">T</span><span data-ice="name"><span><a href="typedef/index.html#static-typedef-TestExecXrayJsonEvidence">TestExecXrayJsonEvidence</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-typedef">T</span><span data-ice="name"><span><a href="typedef/index.html#static-typedef-TestExecXrayJsonInfo">TestExecXrayJsonInfo</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-typedef">T</span><span data-ice="name"><span><a href="typedef/index.html#static-typedef-TestExecXrayJsonResult">TestExecXrayJsonResult</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-typedef">T</span><span data-ice="name"><span><a href="typedef/index.html#static-typedef-TestExecXrayJsonTestRun">TestExecXrayJsonTestRun</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-typedef">T</span><span data-ice="name"><span><a href="typedef/index.html#static-typedef-TestExecXrayJsonTestStep">TestExecXrayJsonTestStep</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-typedef">T</span><span data-ice="name"><span><a href="typedef/index.html#static-typedef-XrayImportQueryParams">XrayImportQueryParams</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-typedef">T</span><span data-ice="name"><span><a href="typedef/index.html#static-typedef-makeXrayUriOptions">makeXrayUriOptions</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-external">E</span><span data-ice="name"><span><a href="https://developer.atlassian.com/cloud/jira/platform/rest/#api-api-2-issue-post">JiraCloudIssueCreationJson</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-external">E</span><span data-ice="name"><span><a href="https://docs.atlassian.com/software/jira/docs/api/REST/7.9.0/#api/2/issue-createIssue">JiraServerIssueCreationJson</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-external">E</span><span data-ice="name"><span><a href="https://github.com/behave/behave/blob/master/behave/formatter/json.py">TestExecBehaveJson</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-external">E</span><span data-ice="name"><span><a href="https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results#ImportExecutionResults-CucumberJSONoutputformat">TestExecCucumberJson</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-external">E</span><span data-ice="name"><span><a href="https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results#ImportExecutionResults-JUnitXMLoutputformat">TestExecJUnitXml</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-external">E</span><span data-ice="name"><span><a href="https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results#ImportExecutionResults-NUnitv2.6XMLoutputformat">TestExecNUnit26Xml</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-external">E</span><span data-ice="name"><span><a href="https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results#ImportExecutionResults-NUnitv3.0XMLoutputformat">TestExecNUnit30Xml</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-external">E</span><span data-ice="name"><span><a href="https://github.com/robotframework/robotframework/tree/master/doc/schema">TestExecRobotXml</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-external">E</span><span data-ice="name"><span><a href="https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results#ImportExecutionResults-TestNGXMLoutputformat">TestExecTestNGXml</a></span></span></li>
+</ul>
+</div>
+</nav>
+
+<div class="content" data-ice="content"><div data-ice="index" class="github-markdown"><h1 id="-code-jira-client-xray--code-"><code>jira-client-xray</code></h1><p><a href="https://www.npmjs.com/package/jira-client-xray"><img src="https://img.shields.io/npm/v/jira-client-xray.svg" alt="NPM version"></a> <a href="https://github.com/JamesMGreene/node-jira-client-xray/blob/master/LICENSE"><img src="https://img.shields.io/github/license/JamesMGreene/node-jira-client-xray.svg" alt="License"></a> <a href="https://travis-ci.org/JamesMGreene/node-jira-client-xray"><img src="https://img.shields.io/travis/JamesMGreene/node-jira-client-xray/master.svg" alt="Build Status"></a> <a href="https://david-dm.org/JamesMGreene/node-jira-client-xray"><img src="https://img.shields.io/david/JamesMGreene/node-jira-client-xray.svg" alt="Dependency Status"></a> <a href="https://david-dm.org/JamesMGreene/node-jira-client-xray#info=devDependencies"><img src="https://img.shields.io/david/dev/JamesMGreene/node-jira-client-xray.svg" alt="Dev Dependency Status"></a></p>
+<p>An extended wrapper of the existing <a href="https://www.npmjs.com/package/jira-client"><code>jira-client</code></a> module, which adds support for the <a href="https://confluence.xpand-addons.com/display/XRAY/">&quot;Xray for Jira&quot;</a> Test Management plugin&apos;s <a href="https://confluence.xpand-addons.com/display/XRAY/REST+API">REST API</a>.</p>
+<h2 id="installation">Installation</h2><pre><code class="lang-shell"><code class="source-code prettyprint">$ npm install --save jira-client-xray</code>
+</code></pre>
+<h2 id="api">API</h2><h3 id="create-a-client">Create A Client</h3><pre><code class="lang-js"><code class="source-code prettyprint">var JiraApiWithXray = require(&apos;jira-client-xray&apos;);
+
+// Initialize
+var jira = new JiraApiWithXray({
+  strictSSL: true,
+  protocol: &apos;https&apos;,
+  username: &apos;username&apos;,
+  password: &apos;password&apos;,
+  host: &apos;jira.somehost.com&apos;,
+  base: &apos;jira&apos;,
+  xrayVersion: &apos;1.0&apos;
+});</code>
+</code></pre>
+<p>The constructor <code>options</code> parameter is a superset of the <a href="https://www.npmjs.com/package/jira-client"><code>jira-client</code></a> module&apos;s constructor&apos;s <code>options</code> parameter. It contains all of those configuration options, plus the following additional properties:</p>
+<ul>
+<li><code>xrayVersion</code> <em>(string)</em> - The REST API version of the &quot;Xray for Jira&quot; plugin. Defaults to <code>&apos;1.0&apos;</code>.</li>
+</ul>
+<h3 id="import-test-execution-results">Import Test Execution Results</h3><p>For deeper documentation, please view our <a href="https://jamesmgreene.github.io/node-jira-client-xray/">ESDoc-generated documentation</a>.</p>
+<h5 id="response-schema">Response Schema</h5><p>The HTTP response object (referred to as the &quot;testExecIssueId&quot; in all subsequent examples) returned from the <code>Promise</code> for each of the following import methods is as follows:</p>
+<pre><code class="lang-json"><code class="source-code prettyprint">{
+  &quot;testExecIssue&quot;: {
+    &quot;id&quot;: &quot;10000&quot;,
+    &quot;key&quot;: &quot;DEMO-123&quot;,
+    &quot;self&quot;: &quot;http://www.example.com/jira/rest/api/2/issue/10000&quot;
+  }
+}</code>
+</code></pre>
+<h5 id="jira-issue-customization-request-schema">Jira Issue Customization Request Schema</h5><p>The JSON schema for the <code>issueData</code> parameter that is an optional part of some of these API calls is as follows:</p>
+<p><a href="https://developer.atlassian.com/cloud/jira/platform/rest/#api-api-2-issue-post"><img src="https://img.shields.io/badge/Jira%2FCloud--blue.svg" alt="Jira Cloud"></a> <a href="https://docs.atlassian.com/software/jira/docs/api/REST/7.9.0/#api/2/issue-createIssue"><img src="https://img.shields.io/badge/Jira%2FServer-v7.9.0-blue.svg" alt="Jira Server"></a></p>
+<h4 id="xray-json">Xray JSON</h4><p><a href="https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-XrayJSONresults"><img src="https://img.shields.io/badge/API%2FDocumentation--blue.svg" alt="API Documentation"></a> <a href="https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results#ImportExecutionResults-XrayJSONformat"><img src="https://img.shields.io/badge/Request%2FSchema--blue.svg" alt="Request Schema"></a></p>
+<pre><code class="lang-js"><code class="source-code prettyprint">jira
+  .importExecResultsFromXray(testExecResults)
+  .then(function(testExecIssueId) { /* ... */ });</code>
+</code></pre>
+<h4 id="cucumber-json">Cucumber JSON</h4><p><a href="https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results#ImportExecutionResults-CucumberJSONoutputformat"><img src="https://img.shields.io/badge/Request%2FSchema--blue.svg" alt="Request Schema"></a></p>
+<h5 id="results-only">Results Only</h5><p><a href="https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-CucumberJSONresults"><img src="https://img.shields.io/badge/API%2FDocumentation--blue.svg" alt="API Documentation"></a></p>
+<pre><code class="lang-js"><code class="source-code prettyprint">jira
+  .importExecResultsFromCucumber(testExecResults)
+  .then(function(testExecIssueId) { /* ... */ });</code>
+</code></pre>
+<h5 id="with-jira-issue-customization">With JIRA Issue Customization</h5><p><a href="https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-CucumberJSONresultsMultipart"><img src="https://img.shields.io/badge/API%2FDocumentation--blue.svg" alt="API Documentation"></a></p>
+<pre><code class="lang-js"><code class="source-code prettyprint">jira
+  .importExecResultsFromCucumber(testExecResults, issueData)
+  .then(function(testExecIssueId) { /* ... */ });</code>
+</code></pre>
+<h4 id="behave-json">Behave JSON</h4><p><a href="https://github.com/behave/behave/blob/master/behave/formatter/json.py"><img src="https://img.shields.io/badge/Request%2FSchema--blue.svg" alt="Request Schema"></a></p>
+<h5 id="results-only">Results Only</h5><p><a href="https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-BehaveJSONresults"><img src="https://img.shields.io/badge/API%2FDocumentation--blue.svg" alt="API Documentation"></a></p>
+<pre><code class="lang-js"><code class="source-code prettyprint">jira
+  .importExecResultsFromBehave(testExecResults)
+  .then(function(testExecIssueId) { /* ... */ });</code>
+</code></pre>
+<h5 id="with-jira-issue-customization">With JIRA Issue Customization</h5><p><a href="https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-BehaveJSONresultsMultipart"><img src="https://img.shields.io/badge/API%2FDocumentation--blue.svg" alt="API Documentation"></a></p>
+<pre><code class="lang-js"><code class="source-code prettyprint">jira
+  .importExecResultsFromBehave(testExecResults, issueData)
+  .then(function(testExecIssueId) { /* ... */ });</code>
+</code></pre>
+<h4 id="junit-xml">JUnit XML</h4><p><a href="https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results#ImportExecutionResults-JUnitXMLoutputformat"><img src="https://img.shields.io/badge/Request%2FSchema--blue.svg" alt="Request Schema"></a></p>
+<h5 id="results-only">Results Only</h5><p><a href="https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-JUnitXMLresults"><img src="https://img.shields.io/badge/API%2FDocumentation--blue.svg" alt="API Documentation"></a></p>
+<pre><code class="lang-js"><code class="source-code prettyprint">jira
+  .importExecResultsFromJUnit(testExecResults, query)
+  .then(function(testExecIssueId) { /* ... */ });</code>
+</code></pre>
+<h5 id="with-jira-issue-customization">With JIRA Issue Customization</h5><p><a href="https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-JUnitXMLresultsMultipart"><img src="https://img.shields.io/badge/API%2FDocumentation--blue.svg" alt="API Documentation"></a></p>
+<pre><code class="lang-js"><code class="source-code prettyprint">jira
+  .importExecResultsFromJUnit(testExecResults, null, issueData)
+  .then(function(testExecIssueId) { /* ... */ });</code>
+</code></pre>
+<h4 id="testng-xml">TestNG XML</h4><p><a href="https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results#ImportExecutionResults-TestNGXMLoutputformat"><img src="https://img.shields.io/badge/Request%2FSchema--blue.svg" alt="Request Schema"></a></p>
+<h5 id="results-only">Results Only</h5><p><a href="https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-TestNGXMLresults"><img src="https://img.shields.io/badge/API%2FDocumentation--blue.svg" alt="API Documentation"></a></p>
+<pre><code class="lang-js"><code class="source-code prettyprint">jira
+  .importExecResultsFromTestNG(testExecResults, query)
+  .then(function(testExecIssueId) { /* ... */ });</code>
+</code></pre>
+<h5 id="with-jira-issue-customization">With JIRA Issue Customization</h5><p><a href="https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-TestNGXMLresultsMultipart"><img src="https://img.shields.io/badge/API%2FDocumentation--blue.svg" alt="API Documentation"></a></p>
+<pre><code class="lang-js"><code class="source-code prettyprint">jira
+  .importExecResultsFromTestNG(testExecResults, null, issueData)
+  .then(function(testExecIssueId) { /* ... */ });</code>
+</code></pre>
+<h4 id="nunit-xml">NUnit XML</h4><p><a href="https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results#ImportExecutionResults-NUnitv3.0XMLoutputformat"><img src="https://img.shields.io/badge/Request%2FSchema-v3.0-blue.svg" alt="Request Schema v3.0"></a> <a href="https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results#ImportExecutionResults-NUnitv2.6XMLoutputformat"><img src="https://img.shields.io/badge/Request%2FSchema-v2.6-blue.svg" alt="Request Schema v2.6"></a></p>
+<h5 id="results-only">Results Only</h5><p><a href="https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-NUnitXMLresults"><img src="https://img.shields.io/badge/API%2FDocumentation--blue.svg" alt="API Documentation"></a></p>
+<pre><code class="lang-js"><code class="source-code prettyprint">jira
+  .importExecResultsFromNUnit(testExecResults, query)
+  .then(function(testExecIssueId) { /* ... */ });</code>
+</code></pre>
+<h5 id="with-jira-issue-customization">With JIRA Issue Customization</h5><p><a href="https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-NUnitXMLresultsMultipart"><img src="https://img.shields.io/badge/API%2FDocumentation--blue.svg" alt="API Documentation"></a></p>
+<pre><code class="lang-js"><code class="source-code prettyprint">jira
+  .importExecResultsFromNUnit(testExecResults, null, issueData)
+  .then(function(testExecIssueId) { /* ... */ });</code>
+</code></pre>
+<h4 id="robot-framework-xml">Robot Framework XML</h4><p><a href="https://github.com/robotframework/robotframework/tree/master/doc/schema"><img src="https://img.shields.io/badge/Request%2FSchema--blue.svg" alt="Request Schema"></a></p>
+<h5 id="results-only">Results Only</h5><p><a href="https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-RobotFrameworkXMLresults"><img src="https://img.shields.io/badge/API%2FDocumentation--blue.svg" alt="API Documentation"></a></p>
+<pre><code class="lang-js"><code class="source-code prettyprint">jira
+  .importExecResultsFromRobot(testExecResults, query)
+  .then(function(testExecIssueId) { /* ... */ });</code>
+</code></pre>
+<h5 id="with-jira-issue-customization">With JIRA Issue Customization</h5><p><a href="https://confluence.xpand-addons.com/display/XRAY/Import+Execution+Results+-+REST#ImportExecutionResults-REST-RobotFrameworkXMLresultsMultipart"><img src="https://img.shields.io/badge/API%2FDocumentation--blue.svg" alt="API Documentation"></a></p>
+<pre><code class="lang-js"><code class="source-code prettyprint">jira
+  .importExecResultsFromRobot(testExecResults, null, issueData)
+  .then(function(testExecIssueId) { /* ... */ });</code>
+</code></pre>
+<h2 id="license">License</h2><p>Copyright (c) 2018, James M. Greene (MIT License)</p>
+</div>
+</div>
+
+<footer class="footer">
+  Generated by <a href="https://esdoc.org">ESDoc<span data-ice="esdocVersion">(1.0.4)</span><img src="./image/esdoc-logo-mini-black.png"></a>
+</footer>
+
+<script src="script/search_index.js"></script>
+<script src="script/search.js"></script>
+<script src="script/pretty-print.js"></script>
+<script src="script/inherited-summary.js"></script>
+<script src="script/test-summary.js"></script>
+<script src="script/inner-link.js"></script>
+<script src="script/patch-for-local.js"></script>
+</body>
+</html>
